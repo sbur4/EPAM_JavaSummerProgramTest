@@ -8,7 +8,7 @@ public class Test20 {
         boolean A = false;
         boolean B = true;
         System.out.println(!(A || B) && (!A && B));
-        //false
+        // false
 
     }
 }

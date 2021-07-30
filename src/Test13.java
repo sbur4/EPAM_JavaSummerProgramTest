@@ -5,7 +5,7 @@ public class Test13 {
         // a = false b = false > else ===== !b
         // a = true b = true > a && b ===== a
         // a = true b = false > !b ===== a
-        // a = false b = true > else  +
+        // a = false b = true > else +
         boolean a = true;
         boolean b = false;
 
